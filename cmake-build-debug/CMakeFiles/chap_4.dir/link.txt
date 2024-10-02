@@ -1,0 +1,1 @@
+/usr/bin/g++.exe -g -Wl,--enable-auto-import CMakeFiles/chap_4.dir/main.cpp.o -o chap_4.exe -Wl,--out-implib,libchap_4.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
